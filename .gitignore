@@ -1,0 +1,15 @@
+# Fortune-cookie build ignores — round r2, written fresh 25 Nov 2026
+__pycache__/
+*.py[cod]
+*.pyo
+/output/
+run-*.txt
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+.env
+venv/
